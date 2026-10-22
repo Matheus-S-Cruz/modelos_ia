@@ -1,0 +1,19 @@
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Logs e arquivos temporários do CatBoost
+catboost_info/
+
+# Arquivos Python temporários
+__pycache__/
+*.py[cod]
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivos CSV gerados pelo programa
+telemetria_maquina_2025.csv
+dados_teste_ultimos_3_meses.csv
