@@ -17,3 +17,6 @@ __pycache__/
 # Arquivos CSV gerados pelo programa
 telemetria_maquina_2025.csv
 dados_teste_ultimos_3_meses.csv
+
+# Pacote final de entrega (gerado para envio no AVA)
+*_atividade_mlops.zip
